@@ -43,7 +43,7 @@ function Profile() {
           </p>
         </div>
         <div className="profile-image">
-          <img src="/pot.png" alt="Centered Image" />
+          <img src="pot.png" alt="Centered Image" />
         </div>
       </div>
       {showImages && (
